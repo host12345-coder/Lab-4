@@ -4,3 +4,6 @@ Console.WriteLine("Enter 2nd Number");
 int n2 = Convert.ToInt32(Console.ReadLine());
 int sum = n1+n2;
 Console.WriteLine("Sum is : "+ sum);
+int sub = n1-n2;
+Console.WriteLine("sub is : "+ sub);
+
