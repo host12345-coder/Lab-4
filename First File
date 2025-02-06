@@ -6,4 +6,6 @@ int sum = n1+n2;
 Console.WriteLine("Sum is : "+ sum);
 int sub = n1-n2;
 Console.WriteLine("sub is : "+ sub);
+int product = n1+n2;
+Console.WriteLine("Sum is : "+ product);
 
